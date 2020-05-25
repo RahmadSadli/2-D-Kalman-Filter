@@ -37,7 +37,7 @@ class KalmanFilter(object):
 
         # Define the Control Input Matrix B
         self.B = np.matrix([[(self.dt**2)/2, 0],
-                            [(self.dt**2)/2,0],
+                            [0,(self.dt**2)/2],
                             [self.dt,0],
                             [0,self.dt]])
 
