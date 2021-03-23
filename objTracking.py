@@ -13,7 +13,7 @@ from KalmanFilter import KalmanFilter
 def main():
 
     # Create opencv video capture object
-    VideoCap = cv2.VideoCapture('video/OneBall.avi')
+    VideoCap = cv2.VideoCapture('video/randomball.avi')
 
     #Variable used to control the speed of reading the video
     ControlSpeedVar = 100  #Lowest: 1 - Highest:100
