@@ -3,7 +3,8 @@
     Description       : Main file for object tracking
     Author            : Rahmad Sadli
     Date created      : 20/02/2020
-    Python Version    : 3.7
+    Last updated      : 20/01/2023
+    Python Version    : 3.9
 '''
 
 import cv2
