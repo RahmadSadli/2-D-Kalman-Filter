@@ -15,7 +15,7 @@ Create your conda environment:
 
 Install these two libraries:
 - pip install matplotlib
-- pip install opencv-python        (This will install you OpenCV 4.7.0.68 at the moment I'm updating this repo January 20,2023)
+- pip install opencv-python        (This will install OpenCV 4.7.0.68 at the moment I was updating this repository on January 20, 2023)
 
 Cheers
 
